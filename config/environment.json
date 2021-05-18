@@ -1,0 +1,17 @@
+{
+  "geste" : {
+    "text": "Geste",
+    "dividedBy": 3
+  },
+  "form" : {
+    "text": "Forme",
+    "dividedBy": 5
+  },
+  "gestform" : {
+    "text": "Gestform"
+  },
+  "interval": {
+    "min": -1000,
+    "max": 1000
+  }
+}

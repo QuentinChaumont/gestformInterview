@@ -1,0 +1,14 @@
+{
+  "name": "gestform",
+  "version": "1.0.0",
+  "description": "interview test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*"
+  },
+  "author": "Quentin CHAUMONT",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^8.4.0"
+  }
+}
